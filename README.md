@@ -1,6 +1,6 @@
 # MSDM5056 Tutorial Files
 
-The first 9 tutorials were originally written by Dr. Ivan Yip Chun Yin. I added the last 2 tutorials and revised the codes, text and equations for easier reading. 
+The first 8 tutorials were originally written by Dr. Ivan Yip Chun Yin. I added the last 2 tutorials and revised the codes, text and equations for easier reading. 
 
 **Course outlines** (Fall 2021-2022, Prof. LI, Sai Ping)
 
